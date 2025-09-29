@@ -98,7 +98,7 @@
   </section>
 
      <section class="image-section">
-     <img src="D:\Practicas HTML 5D\imagenes\foto mia reciclando.jpg" alt="Donación de tapitas y ayuda con reciclaje de botellas">
+   <img src="imagenes/foto mia reciclando.jpg" alt="Donación de tapitas y ayuda con reciclaje de botellas" />
           </section>
   
   <section class="benefits">
