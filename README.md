@@ -122,6 +122,7 @@
     <h2>💚 Súmate al cambio</h2>
     <a href=https://www.ecoce.mx/ target="_blank">Conoce más</a>
     <a href="https://www.bancodetapitas.org/" target="_blank">Más información</a>
+
   </section>
 
 </body>
