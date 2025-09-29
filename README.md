@@ -116,8 +116,8 @@
   <section class="videos">
     <h2>🎥 Videos Informativos</h2>
     <iframe width="400" height="225" src="https://www.youtube.com/embed/s_HgJb-jVE8" title="Video Informativo 1" allowfullscreen></iframe>
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/lnI0Py1dPkg?si=12kEjwHyI1CkmPVL" title="YouTube   video player"frameborder="0"allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </section>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lnI0Py1dPkg?si=kI3Xk8VrPncpBp17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     </section>
 
   <section class="cta">
     <h2>💚 Súmate al cambio</h2>
